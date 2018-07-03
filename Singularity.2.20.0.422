@@ -1,0 +1,2 @@
+Bootstrap: docker
+From: genomicpariscentre/bcl2fastq2:2.20.0.422
